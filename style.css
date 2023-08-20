@@ -163,11 +163,15 @@ section{
 
 /* Profile Section */
 
+.photo{
+  border-radius: 50px;
+ border: transparent gray;
+}
 
 #profile{
     display: flex;
     justify-content: center;
-    gap: 5rem;
+    gap: 8rem;
     height: 80vh;
 
 }
